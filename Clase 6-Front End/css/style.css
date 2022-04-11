@@ -1,0 +1,49 @@
+body{
+    line-height: 23px;
+ }
+
+header{
+    background-color:  rgba(230, 230, 230, 1);
+    text-align: center;
+}
+
+.title{
+    color: rgba(0, 86, 119, 1);
+    background-color: rgba(230, 230, 230, 1);
+    font-size: 17px;
+    line-height: 25px;
+    text-transform: uppercase
+    ;
+}
+
+footer{
+    background-color: rgba(0, 86, 119, 1);
+    line-height: 35px;
+    color: white;
+    text-align: center;
+}
+
+.titlelevel2{
+    font-weight: bold;
+}
+
+.titlelevel2section1{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.logo-footer{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+h1{
+    color: rgba(0, 86, 119, 1);
+    text-align: center;
+    background-color: rgba(196, 196, 196, 1);
+    line-height: 44px;
+}
+
+div{ margin-left: 75px;}
+
