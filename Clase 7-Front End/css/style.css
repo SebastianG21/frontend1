@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+*{
+    font-family: font-family: 'Cormorant Garamond', serif;
+}
+.fondo{
+    background-image: url('../images/fondo.png');
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    background-size: 700px;
+    height: 400px;
+    text-align: center;
+}
+
+.title{
+    color: rgb(255, 255, 255, 0.938);
+    background-color: rgb(180, 50, 50);
+    font-size: 17px;
+    line-height: 25px;
+    text-transform: uppercase;
+    margin-left: 0.25cm;
+}
+
+img{
+    display: block;
+    margin: auto;
+    height: 225px;
+}
+
+h1{
+    color: rgba(255, 255, 255, 0.938);
+    text-align: center;
+    text-transform: uppercase;
+}
+
+a{
+    font-family: 'Cormorant Garamond', serif;
+    font-style: normal;
+    font-weight: 800;
+    color: rgba(255, 255, 255); 
+    text-decoration: none;
+    text-align: center;
+}
+
+.urlindex{
+    font-style:italic;
+    font-size:20px;
+    margin-left: 25px;
+    color: rgba(255, 255, 255, 0.938);
+}
+
+.urlsobremi{
+    margin-left: 15px;
+    color: rgba(174, 6, 6, 0.900);
+}
+
+
+.titlelevel2{
+    font-weight: bold;
+}
+
+.titlelevel2section1{
+    font-weight: bold;
+    font-style: italic;
+}
+
+div{ margin-left: 80px;}
+
+.headersobremi{
+    font-size: 10px;
+    background-color:  rgba(230, 230, 230, 1);
+    text-align: left;   
+}
+
+
+footer{
+    background-image: url('../images/fondo.png');
+    background-attachment: scroll;
+    background-size: 633px;
+    height: 50px;
+    background-color: rgba(174, 6, 6, 0.900);
+    text-align: center;
+    color: rgba(255, 255, 255, 0.938);
+    font-weight: 10px;
+}
+
+section{
+    height: 350px;
+}
+
+.mainindex{
+    background-image: url('https://www.elheraldo.co/sites/default/files/styles/860x484/public/articulo/2021/07/12/e6hgiq_xmauzkv6.jpg?itok=9gPLGPOF');
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: left top;
+    margin-top: 2,5cm;
+
+}
+
+.uno{
+    background-image: url('https://img-estaticos.atleticodemadrid.com/system/file5s/38916/medium2x2/dQTiOHNCAK_2.jpg?1508783336');
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: center top;
+}
+
+.dos{
+    background-image: url('https://cloudfront-eu-central-1.images.arcpublishing.com/prisaradio/YRJ75D74JVPOPHQS63ZBRPQTFE.jpg');
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: right bottom;
+    margin-bottom: 2.5cm;
+}
