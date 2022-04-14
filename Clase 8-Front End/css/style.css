@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+@import url('https://use.fontawesome.com/releases/v6.1.1/css/all.css');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.titulos{
+    font-family: 'Poppins', sans-serif;
+}
+
+.cabecera1{
+    background-color: rgba(34, 34, 34, 1);
+    background-repeat: repeat;
+    color: white;
+    font-size: 10px;
+    font-weight: 400;
+}
+
+.cabecera2{
+    background-color: rgba(240, 168, 62, 1);
+    height: 62px;
+    font-size: 13px;
+}
+
+.fondobody{
+    background-image: url('../images/background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left center;
+    height: 800px;
+    text-align: center;
+}
+
+.bodyproductos{
+    text-align: center;
+}
+
+.productos{
+    text-align: center;
+}
+
+.nombredeproducto{
+    color: rgba(60, 35, 19, 1);
+    font-weight: 500;
+    size: 15px;
+}
+
+.precio{
+    color: rgba(240, 168, 62, 1);
+    ;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    font-weight: 18px;
+}
+
+li{
+    list-style-type: none;
+}
+
+nav{
+    text-align: right;
+}
+
+footer{
+    background-color: rgba(34, 34, 34, 1);
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
