@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300;400;600&family=Poppins:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+*{
+    font-family: 'Akshar', sans-serif;
+    font-size: 16px;
+}
+
+.title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+header p{
+    background-color: rgba(28, 209, 176, 1);
+    position: relative;
+    margin: -8px -8px auto -8px;
+    padding: 8px;
+    border: 10px;
+}
+
+footer p{
+    color: white;
+    background-color: rgba(0, 102, 159, 1);
+    margin: auto -8px -8px -8px;
+    position: relative; 
+    height: 10px;
+    padding:20px 0px;
+}
+
+h1{
+    background-color: rgba(0, 102, 159, 1);
+    position: relative;
+    padding: 25px;
+    margin: -8px;
+    font-size: 40px;
+}
+
+.hero1{
+    position: relative;
+    display: block;
+    margin: 125px;
+
+}
+
+
+.hero2{
+    position: relative;
+    display: block;
+    margin: 0px 125px;
+    left: 500px;
+}
+
+.hero3{
+    position: relative;
+    display: block;
+    margin: 0px 125px;
+    left: 1125px;
+}
+
+.img{
+    border-radius: 50vh;
+}
+
+a{
+    text-decoration: none;
+    background-color: rgba(0, 102, 159, 1);
+    color: white;
+    padding: 0.30cm 0.8cm;
+    margin: 3.5cm;
+}
+
+
